@@ -1,0 +1,45 @@
+    
+    body {
+        background-color: rgb(22, 21, 21);
+    }
+    
+    img{
+        position: absolute;
+        width: auto;
+        height: auto;
+        max-width: 250px;
+        max-height: 150px;
+        left: 850px;
+        top: 20px;
+    }
+
+    #formul {
+        color: white;
+        text-align: center;
+        padding: 15px;
+        font-family: 'Fira Sans Condensed', sans-serif;
+        background-color: black;
+        border-radius: 15px;
+        position: absolute;
+        left: 758px;
+        top: 190px;
+    }
+
+    .bt {
+        font-family: 'Fira Sans Condensed', sans-serif;
+        font-size: medium;
+        background-color: rgb(22, 21, 21);
+        color: white;
+        width: 95px;
+        height: 35px;
+        border-radius: 7px;
+        cursor: pointer;
+    }
+
+    .textbox {
+        border: 3px solid rgb(54, 54, 54);
+        border-radius: 7px;
+    }
+
+    
+    
